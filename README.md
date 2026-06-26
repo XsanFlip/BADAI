@@ -85,6 +85,9 @@ python telegram_spammer.py
 
 ## 📖 How to Use (UI)
 
+<img width="704" height="765" alt="Screenshot_2026-06-26_16-13-28" src="https://github.com/user-attachments/assets/d1fb8db9-43fa-4e0f-9d57-ea597b7a8581" />
+
+
 1.  **API Configuration**:
     
     -   Enter the target's **Bot Token** (obtained from your Threat Intel / intercepted web traffic).
