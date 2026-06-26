@@ -3,6 +3,9 @@
 
 **Bot Attack & Defense Asynchronous Interface**
 
+<img width="500" height="500" alt="logo-badai" src="https://github.com/user-attachments/assets/53063d8b-81f8-494f-81ef-73c69d620747" />
+
+
 > Developed by **xsanlahci** | _Active Defense Tool against Phishing/Scam Bots_
 
 B.A.D.A.I is a modern, Python-based GUI application designed for Load Testing or launching retaliatory attacks (_Active Defense_) against scam/phishing Telegram bots. Utilizing a high-level asynchronous architecture (`asyncio` & `aiohttp`), this application is capable of sending up to 50+ messages per second (RPS) to flood and paralyze a threat actor's Telegram bot database.
