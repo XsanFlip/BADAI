@@ -111,8 +111,8 @@ class TelegramSenderApp:
         # Bot Token
         token_frame = ctk.CTkFrame(config_frame, fg_color="transparent")
         token_frame.pack(fill=tk.X, padx=15, pady=5)
-        ctk.CTkLabel(token_frame, text="Bot Token:", width=100, anchor="w").pack(side=tk.LEFT)
-        self.token_entry = ctk.CTkEntry(token_frame, placeholder_text="Masukkan Token Bot Telegram...", width=450)
+        ctk.CTkLabel(token_frame, text="Bot Token Tele:", width=100, anchor="w").pack(side=tk.LEFT)
+        self.token_entry = ctk.CTkEntry(token_frame, placeholder_text="Masukkan Token Bot Telegram...", width=350)
         self.token_entry.pack(side=tk.LEFT, fill=tk.X, expand=True)
         self.token_entry.insert(0, "8191633285:AAGhwuPEWns2iULlrRQWiTZFxHfv2qPBoD8") 
         
@@ -204,7 +204,7 @@ class TelegramSenderApp:
         
         ctk.CTkLabel(about_win, text="B.A.D.A.I 🌪️", font=ctk.CTkFont(size=18, weight="bold")).pack(pady=(30, 10))
         ctk.CTkLabel(about_win, text="Bot Attack & Defense Asynchronous Interface", font=ctk.CTkFont(size=14)).pack(pady=2)
-        ctk.CTkLabel(about_win, text="Coded by xsanlahci © 2026", font=ctk.CTkFont(size=14)).pack(pady=2)
+        ctk.CTkLabel(about_win, text="Coded by xsanlahci © 2026 thx to Aurel666", font=ctk.CTkFont(size=14)).pack(pady=2)
         ctk.CTkLabel(about_win, text="This tool is created EXCLUSIVELY to deter and counteract scammers.").pack(pady=(2, 15))
         
         link_label = ctk.CTkLabel(about_win, text="ittampan.wordpress.com", text_color="#3498db", font=ctk.CTkFont(underline=True), cursor="hand2")
