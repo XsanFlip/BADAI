@@ -114,3 +114,5 @@ python telegram_spammer.py
 -   **Telegram Rate Limits**: The Telegram API has global rate limits. Do not abuse this tool to spam innocent parties, groups, or individuals.
     
 -   Any misuse of this tool is **entirely the user's responsibility**. The author (**xsanlahci**) is exempt from any legal action or liability arising from the illegal or malicious use of this tool.
+
+## Thanks to Aurel666 for the suggestions to make this tool even cooler.
