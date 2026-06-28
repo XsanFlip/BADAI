@@ -117,4 +117,4 @@ python telegram_spammer.py
 
 ## Thanks to Aurel666 for the suggestions to make this tool even cooler.
 
-**FULL DOCUMENTATION : https://ittampan.wordpress.com/2026/06/27/hacking-the-hackers-how-i-intercepted-a-phishing-operation-and-flooded-their-telegram-bot/**
+**REFERENCE AND INSPIRATION : https://ittampan.wordpress.com/2026/06/27/hacking-the-hackers-how-i-intercepted-a-phishing-operation-and-flooded-their-telegram-bot/**
