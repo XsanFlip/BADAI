@@ -116,3 +116,5 @@ python telegram_spammer.py
 -   Any misuse of this tool is **entirely the user's responsibility**. The author (**xsanlahci**) is exempt from any legal action or liability arising from the illegal or malicious use of this tool.
 
 ## Thanks to Aurel666 for the suggestions to make this tool even cooler.
+
+**FULL DOCUMENTATION : https://ittampan.wordpress.com/2026/06/27/hacking-the-hackers-how-i-intercepted-a-phishing-operation-and-flooded-their-telegram-bot/**
